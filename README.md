@@ -1,4 +1,4 @@
-RSpec Ruby Tests
+RSpec Puppet Tests with Coverage
 ==============
 
 Repo to show how to test puppet scripts with RSpec
